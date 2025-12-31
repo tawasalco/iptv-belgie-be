@@ -1,7 +1,7 @@
 ---
-name: "Tom en Annelies Verhoeven"
-location: "Leuven, Belgium"
-rating: 5
+name: "Sofie Peeters"
+location: "Brugge, Belgium"
+rating: 4
 ---
 
-Met iptv belgie kijken we als gezin naar allerlei programma's die ons allang samenbrengen, van kinderfilms tot kookprogramma's. Het ruime aanbod betekent dat er voor ieder wat wils is. De kinderen genieten ook van het eenvoudige, gebruiksvriendelijke menu.
+Met het hele gezin genieten we van iptv belgie. De kids kijken graag naar hun favoriete tekenfilms terwijl mijn man en ik ons verdiepen in boeiende series. Een grote variatie voor ieder lid van het gezin!

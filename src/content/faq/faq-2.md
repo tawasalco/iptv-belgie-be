@@ -1,7 +1,7 @@
 ---
-question: "Hoe werkt de iptv belgie dienst?"
-category: "general"
+question: "Hoe werkt de dienst van iptv belgie?"
+category: "technical"
 order: 2
 ---
 
-De iptv belgie dienst werkt door het streamen van televisiesignalen via een internetverbinding naar compatibele apparaten zoals televisies, computers, tablets en smartphones. Je ontvangt toegang tot onze uitgebreide zenderlijst via een speciale app of rechtstreeks op je apparaat. Hierdoor kun je live tv kijken, programma's opnemen, pauzeren en zelfs terugspoelen, zonder de beperkingen van traditionele tv-abonnementen. Een stabiele internetverbinding is voldoende om van onze service te genieten.
+De dienst van iptv belgie werkt door je televisieprogrammering via een internetprotocol te streamen. Via een stabiele internetverbinding kun je toegang krijgen tot een breed scala aan zenders en content, eenvoudig te bedienen via een app of streamingapparaat.

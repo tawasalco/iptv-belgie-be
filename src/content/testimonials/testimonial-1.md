@@ -1,7 +1,7 @@
 ---
-name: "Jan Peeters"
+name: "Tom Janssens"
 location: "Antwerpen, Belgium"
 rating: 5
 ---
 
-Als sportfan ben ik ontzettend blij met de iptv belgie service. Het aanbod van sportzenders is enorm en alles wordt in haarscherpe kwaliteit uitgezonden. Of het nu gaat om voetbal of tennis, ik mis geen enkel belangrijk evenement meer. Het is alsof ik op elk moment van de dag in het stadion zit.
+Als sportliefhebber mis ik nooit een wedstrijd dankzij iptv belgie. De beeldkwaliteit is fantastisch, zelfs tijdens live uitzendingen. Van voetbal tot formule 1, alles wordt feilloos gestreamd. Echt een aanrader voor elke sportfan!

@@ -1,7 +1,7 @@
 ---
-name: "Kim Claes"
-location: "Brussel, Belgium"
+name: "Marc De Smet"
+location: "Leuven, Belgium"
 rating: 5
 ---
 
-Wat ik het meeste waardeer aan de iptv belgie is de compatibiliteit met al mijn apparaten. Of ik nu op mijn smartphone, tablet of smart TV wil kijken, alles werkt vlekkeloos. Het geeft mij de vrijheid om overal in huis van mijn favoriete programma's te genieten.
+Ik was aangenaam verrast door hoeveel apparaten iptv belgie ondersteunt. Of ik nu op mijn tablet, smartphone of smart TV kijk, de ervaring is altijd vloeiend en probleemloos. Geen gedoe meer met verschillende abonnementen!

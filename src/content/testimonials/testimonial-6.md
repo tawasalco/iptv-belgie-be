@@ -1,7 +1,7 @@
 ---
-name: "Sophie De Ridder"
-location: "Mechelen, Belgium"
-rating: 5
+name: "Jan Goossens"
+location: "Luik, Belgium"
+rating: 4
 ---
 
-Voor de prijs die ik betaal, is de iptv belgie service echt ongelofelijk. Het aanbod en de kwaliteit van de zenders zijn de beste die ik tot nu toe heb gezien. Zeker een goede investering voor iedereen die waar voor zijn geld wil krijgen.
+De prijs-kwaliteitverhouding van iptv belgie is uitstekend. Voor een betaalbaar abonnement krijg je toegang tot een enorme hoeveelheid zenders en content. Absoluut de moeite waard!

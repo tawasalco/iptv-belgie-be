@@ -1,7 +1,7 @@
 ---
-name: "Liesbeth Jansens"
+name: "Lisa Vermeulen"
 location: "Gent, Belgium"
-rating: 4
+rating: 5
 ---
 
-De iptv belgie service heeft mijn filmavondjes compleet veranderd. Er is een ongekend grote selectie van films, zowel klassiekers als de nieuwste releases. De streaming verloopt soepel en in hoge kwaliteit. Een echte aanrader voor elke filmliefhebber!
+Als filmliefhebber ben ik dol op de uitgebreide filmbibliotheek die iptv belgie biedt. Er zijn altijd nieuwe en klassieke films beschikbaar in hoge definitie. Het voelt alsof ik mijn eigen bioscoop thuis heb.
