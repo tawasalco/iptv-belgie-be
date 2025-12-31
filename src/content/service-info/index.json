@@ -1,57 +1,57 @@
 [
   {
     "id": "main",
-    "brandName": "iptv--belgie.be",
-    "tagline": "Ervaar veeleisende tv-ervaring met iptv belgie - Altijd en overal",
-    "description": "Ontdek een geheel nieuwe manier van televisie kijken met iptv belgie. Geniet van een uitgebreide selectie aan zenders en films, zonder gedoe. Perfect voor elke kijker in België.",
-    "channelCount": 55000,
-    "vodCount": 90000,
-    "supportEmail": "streamonlinever@gmail.com",
-    "primaryColor": "#3B82F6",
-    "secondaryColor": "#1E40AF",
     "siteUrl": "https://iptv-belgie-be.pages.dev",
+    "tagline": "Ervaar veeleisende tv-ervaring met iptv belgie - Altijd en overal",
     "features": [
       {
+        "icon": "Tv",
         "title": "Uitgebreide Zenderlijst",
-        "description": "Met iptv belgie krijg je toegang tot honderden nationale en internationale zenders. Ideaal voor het ontdekken van je nieuwe favoriete shows.",
-        "icon": "Tv"
+        "description": "Met iptv belgie krijg je toegang tot honderden nationale en internationale zenders. Ideaal voor het ontdekken van je nieuwe favoriete shows."
       },
       {
+        "icon": "Film",
         "title": "On-demand Films",
-        "description": "Kies uit een brede selectie van films, allemaal direct beschikbaar om te streamen. Geen wachttijden, alleen genieten.",
-        "icon": "Film"
+        "description": "Kies uit een brede selectie van films, allemaal direct beschikbaar om te streamen. Geen wachttijden, alleen genieten."
       },
       {
+        "icon": "Zap",
         "title": "Zappen zonder Vertraging",
-        "description": "Zeg vaarwel tegen trage zaptijden. Met onze snelle zapsnelheid kun je onmiddellijk je favoriete zender vinden.",
-        "icon": "Zap"
+        "description": "Zeg vaarwel tegen trage zaptijden. Met onze snelle zapsnelheid kun je onmiddellijk je favoriete zender vinden."
       },
       {
+        "icon": "Shield",
         "title": "Veilig en Betrouwbaar",
-        "description": "Jouw veiligheid is onze prioriteit. Dankzij geavanceerde beveiligingsprotocollen blijven je gegevens beschermd en privé.",
-        "icon": "Shield"
+        "description": "Jouw veiligheid is onze prioriteit. Dankzij geavanceerde beveiligingsprotocollen blijven je gegevens beschermd en privé."
       },
       {
+        "icon": "Globe",
         "title": "Wereldwijde Toegang",
-        "description": "Bekijk je favoriete programma's niet alleen in België, maar overal ter wereld. Nooit meer beperkingen!",
-        "icon": "Globe"
+        "description": "Bekijk je favoriete programma's niet alleen in België, maar overal ter wereld. Nooit meer beperkingen!"
       },
       {
+        "icon": "Users",
         "title": "24/7 Klantenservice",
-        "description": "Onze vriendelijke en deskundige klantenservice staat altijd klaar om je te helpen, dag en nacht, via mail of live chat.",
-        "icon": "Users"
+        "description": "Onze vriendelijke en deskundige klantenservice staat altijd klaar om je te helpen, dag en nacht, via mail of live chat."
       },
       {
+        "icon": "Headphones",
         "title": "Geluidskwaliteit",
-        "description": "Maximaliseer je kijkervaring met kristalhelder geluid dat je bijna in de actie trekt. Hoor elk detail.",
-        "icon": "Headphones"
+        "description": "Maximaliseer je kijkervaring met kristalhelder geluid dat je bijna in de actie trekt. Hoor elk detail."
       },
       {
+        "icon": "CreditCard",
         "title": "Flexibele Betalingsmogelijkheden",
-        "description": "Betaal met gemak. Wij accepteren diverse betaalmethoden, zodat je snel en eenvoudig kan beginnen met kijken.",
-        "icon": "CreditCard"
+        "description": "Betaal met gemak. Wij accepteren diverse betaalmethoden, zodat je snel en eenvoudig kan beginnen met kijken."
       }
     ],
+    "vodCount": 90000,
+    "brandName": "iptv--belgie.be",
+    "description": "Ontdek een geheel nieuwe manier van televisie kijken met iptv belgie. Geniet van een uitgebreide selectie aan zenders en films, zonder gedoe. Perfect voor elke kijker in België.",
+    "channelCount": 55000,
+    "primaryColor": "#3B82F6",
+    "supportEmail": "streamonlinever@gmail.com",
+    "secondaryColor": "#1E40AF",
     "paymentSettings": {
       "buttonText": "BUY NOW",
       "paymentType": "paygate",

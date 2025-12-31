@@ -4,7 +4,7 @@ import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://iptv-belgie-be.pages.dev',
+  site: 'https://iptv--belgie.be.pages.dev',
   integrations: [
     react(),
     tailwind({

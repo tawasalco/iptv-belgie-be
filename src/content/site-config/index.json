@@ -2,7 +2,7 @@
   {
     "id": "main",
     "brandName": "iptv--belgie.be",
-    "siteUrl": "https://iptv-belgie-be.pages.dev",
+    "siteUrl": "https://iptv--belgie.be.pages.dev",
     "focusKeyword": "IPTV",
     "country": "United States",
     "countryCode": "US",
@@ -42,8 +42,8 @@
     "channelCount": 55000,
     "vodCount": 90000,
     "countryCount": 100,
-    "primaryColor": "#3b82f6",
-    "secondaryColor": "#8b5cf6",
+    "primaryColor": "#3B82F6",
+    "secondaryColor": "#1E40AF",
     "templateId": "classic",
     "defaultLanguage": "nl",
     "enabledLanguages": [
