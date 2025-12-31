@@ -1,0 +1,61 @@
+[
+  {
+    "id": "main",
+    "brandName": "iptv--belgie.be",
+    "tagline": "Ontdek de toekomst van televisie met iptv belgie – altijd en overal verbonden!",
+    "description": "Bij iptv--belgie.be bieden wij België's meest betrouwbare IPTV-service, met een breed scala aan kanalen en on-demand content. Geniet van haarscherpe kwaliteit en een naadloze kijkervaring.",
+    "channelCount": 55000,
+    "vodCount": 90000,
+    "supportEmail": "streamonlinever@gmail.com",
+    "primaryColor": "#3B82F6",
+    "secondaryColor": "#1E40AF",
+    "siteUrl": "https://iptv-belgie-be.pages.dev",
+    "features": [
+      {
+        "title": "Uitgebreid Zenderaanbod",
+        "description": "Toegang tot meer dan 1000 kanalen van over de hele wereld! Van sport tot films, wij hebben voor ieder wat wils. Ontdek zenders die elders niet beschikbaar zijn.",
+        "icon": "Tv"
+      },
+      {
+        "title": "On-Demand Films en Series",
+        "description": "Kijk wat je wilt, wanneer je wilt met onze uitgebreide bibliotheek van films en series. Altijd de nieuwste releases binnen handbereik.",
+        "icon": "Film"
+      },
+      {
+        "title": "Snel en Eenvoudig Zappen",
+        "description": "Blijf niet langer vasthangen aan één zender. Met onze gebruiksvriendelijke interface zap je razendsnel naar je favoriete programma's.",
+        "icon": "Zap"
+      },
+      {
+        "title": "Veilig en Betrouwbaar",
+        "description": "Wij zorgen voor de hoogste veiligheidsnormen. Met gegarandeerde gegevensbescherming en een veilige verbinding kun je zorgeloos genieten.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Internationale Inhoud",
+        "description": "Bekijk de beste internationale content, van nieuws tot films. Blijf op de hoogte van wereldwijd nieuws en trends met ons breed scala aan zenders.",
+        "icon": "Globe"
+      },
+      {
+        "title": "24/7 Klantenservice",
+        "description": "Voor vragen of technische ondersteuning staan we altijd klaar. Onze 24/7 klantenservice zorgt ervoor dat je nooit zonder hulp staat.",
+        "icon": "Clock"
+      },
+      {
+        "title": "Gebruiksvriendelijke Interface",
+        "description": "Ons platform is ontworpen om gebruikers gemakkelijk naar hun favoriete content te leiden. Geniet van een soepele en intuïtieve kijkervaring.",
+        "icon": "Settings"
+      },
+      {
+        "title": "Flexibele Betalingsmogelijkheden",
+        "description": "Betaal zoals jij dat wilt, met diverse veilige betalingsopties. Of je nu een kredietkaart of PayPal gebruikt, wij maken het gemakkelijk voor je.",
+        "icon": "CreditCard"
+      }
+    ],
+    "paymentSettings": {
+      "buttonText": "BUY NOW",
+      "paymentType": "paygate",
+      "paygateWalletAddress": "0x1e2c390ae5602f3662332061cae6c5658cd54e22"
+    }
+  }
+]

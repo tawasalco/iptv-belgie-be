@@ -1,0 +1,60 @@
+[
+  {
+    "id": "main",
+    "brandName": "iptv--belgie.be",
+    "siteUrl": "https://iptv-belgie-be.pages.dev",
+    "focusKeyword": "IPTV",
+    "country": "United States",
+    "countryCode": "US",
+    "locale": "en-US",
+    "currency": "USD",
+    "currencySymbol": "$",
+    "supportEmail": "streamonlinever@gmail.com",
+    "guaranteeDays": 7,
+    "primaryCtaText": "Get Started Now",
+    "secondaryCtaText": "Learn More",
+    "trustPoints": [
+      "24/7 Customer Support",
+      "Instant Activation",
+      "No Contract Required",
+      "7-Day Money Back Guarantee"
+    ],
+    "localContext": {
+      "popularDevices": [
+        "Smart TV",
+        "Fire Stick",
+        "Android Box",
+        "iOS",
+        "Android"
+      ],
+      "popularUseCases": [
+        "Live Sports",
+        "Movies",
+        "TV Shows",
+        "International Channels"
+      ],
+      "paymentMethods": [
+        "Credit Card",
+        "PayPal",
+        "Crypto"
+      ]
+    },
+    "channelCount": 55000,
+    "vodCount": 90000,
+    "countryCount": 100,
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "templateId": "classic",
+    "defaultLanguage": "nl",
+    "enabledLanguages": [
+      "nl"
+    ],
+    "responseTime": "under 2 hours",
+    "organizationDescription": "Bij iptv--belgie.be bieden wij België's meest betrouwbare IPTV-service, met een breed scala aan kanalen en on-demand content. Geniet van haarscherpe kwaliteit en een naadloze kijkervaring.",
+    "paymentSettings": {
+      "buttonText": "BUY NOW",
+      "paymentType": "paygate",
+      "paygateWalletAddress": "0x1e2c390ae5602f3662332061cae6c5658cd54e22"
+    }
+  }
+]
